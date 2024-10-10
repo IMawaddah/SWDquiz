@@ -4,8 +4,8 @@
  */
 package javaapplication39;
 
-/**
- *
+/**ID: 445013878
+ *NAme: مودة ابراهيم عمر الشبلي
  * @author مودة
  */
 // Java code for linearly search x in arr[]. If x
@@ -52,7 +52,7 @@ class LinearSearch {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 5; // changed index value by Mawaddah
 
                         int index = search(arr, n, x);
 
